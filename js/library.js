@@ -390,7 +390,7 @@ export function buildCatalog(files = []) {
     }
     songs.push({
       ...track,
-      files: { audio: chosen.url, name: chosen.name, lrc: null }
+      files: { audio: chosen.url, name: chosen.name, bytes: chosen.bytes ?? 0, lrc: null }
     });
   }
 

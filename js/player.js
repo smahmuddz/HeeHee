@@ -36,6 +36,8 @@ export class Player {
     this.mediaNode = null;
     this.buffer = null;
     this.bufferSource = null;
+    this.audioBase = '';       // '' = serve audio from alongside the app
+    this._directElement = false;
 
     this.playing = false;
     this._offset = 0;
@@ -67,22 +69,49 @@ export class Player {
     return this.ctx;
   }
 
+  /**
+   * Where the audio actually lives. Empty means "alongside the app", which is
+   * the local case. Set this to a CDN or object-store URL to keep the app small
+   * while the songs live somewhere else.
+   */
+  setAudioBase(base) {
+    this.audioBase = String(base || '').trim();
+    return this.audioBase;
+  }
+
+  /** Resolve a catalog-relative path against the configured audio base. */
+  resolveUrl(url) {
+    if (!url) return url;
+    if (/^(https?:|blob:|data:)/i.test(url)) return url;
+    if (!this.audioBase) return url;
+    return `${this.audioBase.replace(/\/+$/, '')}/${String(url).replace(/^\/+/, '')}`;
+  }
+
+  isCrossOrigin(url) {
+    if (!/^https?:/i.test(url)) return false;
+    try {
+      return new URL(url, location.href).origin !== location.origin;
+    } catch {
+      return false;
+    }
+  }
+
   setVolume(v) {
     this.volume = clamp(v, 0, 1);
     if (this.gain) this.gain.gain.value = this.volume;
-    if (this.audioEl) this.audioEl.volume = this.volume;
+    if (this.audioEl) this.audioEl.volume = this._directElement ? this.volume : 1;
   }
 
-  /** Frequency data for the visualiser. Returns null when idle. */
+  /** Frequency data for the visualiser. Returns null when idle or unroutable. */
   getLevels() {
-    if (!this.analyser || !this.playing) return null;
+    if (!this.analyser || !this.playing || this._directElement) return null;
     this.analyser.getByteFrequencyData(this.levels);
     return this.levels;
   }
 
   /** The lyrics file for a song, if one was found next to the audio. */
   resolveLyrics(song) {
-    return song?.files?.lrc || null;
+    return this.resolveUrl(song?.files?.lrc || null);
   }
 
   async load(song) {
@@ -91,9 +120,9 @@ export class Player {
     const token = ++this._renderToken;
     this.hooks.onState?.({ phase: 'loading', song });
 
-    // The catalog only ever contains songs with a resolved local file, so this
-    // is normally a direct hit. The synth is kept as a safety net.
-    const url = song.files?.audio || null;
+    // The catalog only ever contains songs with a resolved file, so this is
+    // normally a direct hit. The synth is kept as a safety net.
+    const url = this.resolveUrl(song.files?.audio || null);
     if (url && await this._loadFile(song, url)) return;
     if (token !== this._renderToken) return;
     await this._loadGenerated(song, token);
@@ -102,17 +131,17 @@ export class Player {
   /** @returns {Promise<boolean>} whether the file actually loaded */
   async _loadFile(song, url) {
     this.ensureContext();
+    const crossOrigin = this.isCrossOrigin(url);
     const el = new Audio();
     el.src = url;
     el.preload = 'auto';
-    el.crossOrigin = 'anonymous';
     el.volume = this.volume;
 
     const ok = await new Promise((resolve) => {
       const done = (good) => resolve(good);
       el.addEventListener('loadedmetadata', () => done(true), { once: true });
       el.addEventListener('error', () => done(false), { once: true });
-      setTimeout(() => done(el.readyState >= 1), 8000);
+      setTimeout(() => done(el.readyState >= 1), 12000);
     });
 
     if (!ok) {
@@ -124,15 +153,31 @@ export class Player {
     this.audioEl = el;
     this.source = 'file';
     this._offset = 0;
-    try {
-      this.mediaNode = this.ctx.createMediaElementSource(el);
-      this.mediaNode.connect(this.gain);
-      el.volume = 1;
-    } catch {
+    this._directElement = false;
+
+    // Routing through Web Audio would need CORS headers from a remote host and
+    // taints the graph when they are missing, so cross-origin media is played
+    // directly by the element instead. It just loses the reactive glow.
+    if (!crossOrigin) {
+      try {
+        this.mediaNode = this.ctx.createMediaElementSource(el);
+        this.mediaNode.connect(this.gain);
+        el.volume = 1;
+      } catch {
+        this.mediaNode = null;
+        this._directElement = true;
+      }
+    } else {
       this.mediaNode = null;
+      this._directElement = true;
+      el.crossOrigin = null;
     }
+
     el.addEventListener('ended', () => this._handleEnded());
-    this.hooks.onState?.({ phase: 'ready', song, source: 'file', duration: this.duration, url });
+    this.hooks.onState?.({
+      phase: 'ready', song, source: 'file', duration: this.duration,
+      url, crossOrigin, direct: this._directElement
+    });
     return true;
   }
 
