@@ -1,0 +1,3989 @@
+{
+  "songs": [
+    {
+      "id": "mj-017",
+      "title": "Burn This Disco Out",
+      "album": "Off the Wall",
+      "year": 1979,
+      "era": "Off the Wall",
+      "slug": "burn-this-disco-out",
+      "key": "Fm",
+      "bpm": 118,
+      "scale": "minor",
+      "groove": "disco",
+      "mood": {
+        "valence": 0.85,
+        "arousal": 0.9,
+        "danceability": 0.97,
+        "warmth": 0.65
+      },
+      "themes": [
+        "celebration",
+        "joy",
+        "escapism"
+      ],
+      "note": "The closing track, and the most relentless thing on the record.",
+      "feel": "Dancing like the night is being scored to it.",
+      "colors": [
+        "#e8d9b0",
+        "#2b2118"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Burn%20This%20Disco%20Out%20(Audio).mp3",
+        "name": "Michael Jackson - Burn This Disco Out (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-010",
+      "title": "Don't Stop 'Til You Get Enough",
+      "album": "Off the Wall",
+      "year": 1979,
+      "era": "Off the Wall",
+      "slug": "dont-stop-til-you-get-enough",
+      "key": "Bm",
+      "bpm": 122,
+      "scale": "minor",
+      "groove": "disco",
+      "mood": {
+        "valence": 0.92,
+        "arousal": 0.92,
+        "danceability": 0.97,
+        "warmth": 0.75
+      },
+      "themes": [
+        "joy",
+        "celebration",
+        "desire"
+      ],
+      "note": "His first solo writing credit and his first solo number one.",
+      "feel": "The exact moment the floor stops being a floor.",
+      "colors": [
+        "#e8d9b0",
+        "#2b2118"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Don't%20Stop%20'Til%20You%20Get%20Enough%20(Official%20Video%20-%20Upscaled).mp3",
+        "name": "Michael Jackson - Don't Stop 'Til You Get Enough (Official Video - Upscaled).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-016",
+      "title": "Get on the Floor",
+      "album": "Off the Wall",
+      "year": 1979,
+      "era": "Off the Wall",
+      "slug": "get-on-the-floor",
+      "key": "Em",
+      "bpm": 124,
+      "scale": "minor",
+      "groove": "disco",
+      "mood": {
+        "valence": 0.82,
+        "arousal": 0.88,
+        "danceability": 0.96,
+        "warmth": 0.65
+      },
+      "themes": [
+        "celebration",
+        "desire",
+        "joy"
+      ],
+      "note": "A co-write with Louis Johnson of the Brothers Johnson.",
+      "feel": "The bassline doing most of the talking and all of the flirting.",
+      "colors": [
+        "#e8d9b0",
+        "#2b2118"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Get%20on%20the%20Floor%20(Audio).mp3",
+        "name": "Michael Jackson - Get on the Floor (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-015",
+      "title": "Girlfriend",
+      "album": "Off the Wall",
+      "year": 1979,
+      "era": "Off the Wall",
+      "slug": "girlfriend",
+      "key": "Ab",
+      "bpm": 120,
+      "scale": "major",
+      "groove": "pop",
+      "mood": {
+        "valence": 0.8,
+        "arousal": 0.72,
+        "danceability": 0.85,
+        "warmth": 0.7
+      },
+      "themes": [
+        "playfulness",
+        "love",
+        "desire"
+      ],
+      "note": "Written by Paul McCartney as a gift, produced by Quincy Jones.",
+      "feel": "A wink, a shrug, and someone new on your mind.",
+      "colors": [
+        "#e8d9b0",
+        "#2b2118"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Girlfriend%20(Audio).mp3",
+        "name": "Michael Jackson - Girlfriend (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-018",
+      "title": "I Can't Help It",
+      "album": "Off the Wall",
+      "year": 1979,
+      "era": "Off the Wall",
+      "slug": "i-cant-help-it",
+      "key": "A",
+      "bpm": 92,
+      "scale": "major",
+      "groove": "ballad",
+      "mood": {
+        "valence": 0.72,
+        "arousal": 0.42,
+        "danceability": 0.62,
+        "warmth": 0.85
+      },
+      "themes": [
+        "love",
+        "awe",
+        "sensuality"
+      ],
+      "note": "Written by Stevie Wonder, who plays the keys.",
+      "feel": "Being quietly undone by someone and not minding at all.",
+      "colors": [
+        "#e8d9b0",
+        "#2b2118"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20I%20Can't%20Help%20It%20(Audio).mp3",
+        "name": "Michael Jackson - I Can't Help It (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-019",
+      "title": "It's the Falling in Love",
+      "album": "Off the Wall",
+      "year": 1979,
+      "era": "Off the Wall",
+      "slug": "its-the-falling-in-love",
+      "key": "C",
+      "bpm": 106,
+      "scale": "major",
+      "groove": "disco",
+      "mood": {
+        "valence": 0.78,
+        "arousal": 0.7,
+        "danceability": 0.85,
+        "warmth": 0.8
+      },
+      "themes": [
+        "love",
+        "joy",
+        "comfort"
+      ],
+      "note": "A duet with Patti Austin, tucked near the end.",
+      "feel": "The easy, floating part of falling for someone.",
+      "colors": [
+        "#e8d9b0",
+        "#2b2118"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20It's%20the%20Falling%20in%20Love%20(Audio).mp3",
+        "name": "Michael Jackson - It's the Falling in Love (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-012",
+      "title": "Off the Wall",
+      "album": "Off the Wall",
+      "year": 1979,
+      "era": "Off the Wall",
+      "slug": "off-the-wall",
+      "key": "Em",
+      "bpm": 122,
+      "scale": "minor",
+      "groove": "disco",
+      "mood": {
+        "valence": 0.8,
+        "arousal": 0.88,
+        "danceability": 0.95,
+        "warmth": 0.6
+      },
+      "themes": [
+        "celebration",
+        "escapism",
+        "joy"
+      ],
+      "note": "The album that made him a solo star instead of a former child star.",
+      "feel": "Leaving your own problems somewhere behind the bassline.",
+      "colors": [
+        "#e8d9b0",
+        "#2b2118"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Off%20the%20Wall%20(Audio).mp3",
+        "name": "Michael Jackson - Off the Wall (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-011",
+      "title": "Rock with You",
+      "album": "Off the Wall",
+      "year": 1979,
+      "era": "Off the Wall",
+      "slug": "rock-with-you",
+      "key": "Db",
+      "bpm": 114,
+      "scale": "major",
+      "groove": "disco",
+      "mood": {
+        "valence": 0.88,
+        "arousal": 0.72,
+        "danceability": 0.92,
+        "warmth": 0.88
+      },
+      "themes": [
+        "love",
+        "desire",
+        "joy"
+      ],
+      "note": "Recorded in one take, warmth turned into a groove.",
+      "feel": "Close enough to hear someone breathe and not wanting them to move.",
+      "colors": [
+        "#e8d9b0",
+        "#2b2118"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Rock%20With%20You%20(Official%20Video%20-%20Upscaled).mp3",
+        "name": "Michael Jackson - Rock With You (Official Video - Upscaled).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-013",
+      "title": "She's Out of My Life",
+      "album": "Off the Wall",
+      "year": 1979,
+      "era": "Off the Wall",
+      "slug": "shes-out-of-my-life",
+      "key": "C",
+      "bpm": 66,
+      "scale": "minor",
+      "groove": "ballad",
+      "mood": {
+        "valence": -0.9,
+        "arousal": 0.35,
+        "danceability": 0.2,
+        "warmth": 0.7
+      },
+      "themes": [
+        "loss",
+        "grief",
+        "loneliness"
+      ],
+      "note": "He cried in the vocal booth and they kept the take.",
+      "feel": "The silence after a door closes, and knowing it is real.",
+      "colors": [
+        "#e8d9b0",
+        "#2b2118"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20She's%20Out%20of%20My%20Life%20(Official%20Video%20-%20Upscaled).mp3",
+        "name": "Michael Jackson - She's Out of My Life (Official Video - Upscaled).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-020",
+      "title": "Sunset Driver",
+      "album": "Off the Wall",
+      "year": 1979,
+      "era": "Off the Wall",
+      "slug": "sunset-driver",
+      "key": "Am",
+      "bpm": 128,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": 0.72,
+        "arousal": 0.82,
+        "danceability": 0.92,
+        "warmth": 0.6
+      },
+      "themes": [
+        "celebration",
+        "escapism",
+        "desire"
+      ],
+      "note": "An Off the Wall outtake, released decades later.",
+      "feel": "Top down, engine running, nowhere to be until morning.",
+      "colors": [
+        "#e8d9b0",
+        "#2b2118"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Sunset%20Driver%20(Demo%20-%20Official%20Audio).mp3",
+        "name": "Michael Jackson - Sunset Driver (Demo - Official Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-014",
+      "title": "Workin' Day and Night",
+      "album": "Off the Wall",
+      "year": 1979,
+      "era": "Off the Wall",
+      "slug": "workin-day-and-night",
+      "key": "Bb",
+      "bpm": 120,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": 0.55,
+        "arousal": 0.85,
+        "danceability": 0.9,
+        "warmth": 0.5
+      },
+      "themes": [
+        "resilience",
+        "weariness",
+        "defiance"
+      ],
+      "note": "He wrote and arranged it himself at twenty.",
+      "feel": "Grinding through it anyway because stopping is not an option.",
+      "colors": [
+        "#e8d9b0",
+        "#2b2118"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Workin'%20Day%20and%20Night%20(Audio).mp3",
+        "name": "Michael Jackson - Workin' Day and Night (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-022",
+      "title": "Baby Be Mine",
+      "album": "Thriller",
+      "year": 1982,
+      "era": "Thriller",
+      "slug": "baby-be-mine",
+      "key": "F",
+      "bpm": 118,
+      "scale": "major",
+      "groove": "funk",
+      "mood": {
+        "valence": 0.82,
+        "arousal": 0.68,
+        "danceability": 0.88,
+        "warmth": 0.82
+      },
+      "themes": [
+        "love",
+        "desire"
+      ],
+      "note": "The deep cut Thriller fans argue about most.",
+      "feel": "Easy desire, no danger in it at all.",
+      "colors": [
+        "#d21f2c",
+        "#160406"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Baby%20Be%20Mine%20(Audio).mp3",
+        "name": "Michael Jackson - Baby Be Mine (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-025",
+      "title": "Beat It",
+      "album": "Thriller",
+      "year": 1982,
+      "era": "Thriller",
+      "slug": "beat-it",
+      "key": "Em",
+      "bpm": 138,
+      "scale": "minor",
+      "groove": "rock",
+      "mood": {
+        "valence": 0.25,
+        "arousal": 0.95,
+        "danceability": 0.85,
+        "warmth": 0.4
+      },
+      "themes": [
+        "defiance",
+        "anger",
+        "resilience"
+      ],
+      "note": "The Eddie Van Halen solo nobody was supposed to know about.",
+      "feel": "Walking away from a fight you could win, on your own terms.",
+      "colors": [
+        "#d21f2c",
+        "#160406"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Beat%20It%20(Official%204K%20Video).mp3",
+        "name": "Michael Jackson - Beat It (Official 4K Video).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-026",
+      "title": "Billie Jean",
+      "album": "Thriller",
+      "year": 1982,
+      "era": "Thriller",
+      "slug": "billie-jean",
+      "key": "F#m",
+      "bpm": 117,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": -0.55,
+        "arousal": 0.78,
+        "danceability": 0.92,
+        "warmth": 0.35
+      },
+      "themes": [
+        "paranoia",
+        "tension",
+        "obsession"
+      ],
+      "note": "The bassline that made Quincy Jones want to kill the drummer.",
+      "feel": "A secret following you home that will not take no for an answer.",
+      "colors": [
+        "#d21f2c",
+        "#160406"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Billie%20Jean%20(Official%20Video).mp3",
+        "name": "Michael Jackson - Billie Jean (Official Video).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-031",
+      "title": "Can't Get Outta the Rain",
+      "album": "Thriller",
+      "year": 1982,
+      "era": "Thriller",
+      "slug": "cant-get-outta-the-rain",
+      "key": "A",
+      "bpm": 96,
+      "scale": "major",
+      "groove": "ballad",
+      "mood": {
+        "valence": -0.1,
+        "arousal": 0.45,
+        "danceability": 0.6,
+        "warmth": 0.6
+      },
+      "themes": [
+        "melancholy",
+        "reflection",
+        "weariness"
+      ],
+      "note": "The B-side of The Girl Is Mine.",
+      "feel": "Standing in bad weather you cannot talk your way out of.",
+      "colors": [
+        "#d21f2c",
+        "#160406"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Can't%20Get%20Outta%20The%20Rain%20(Official%20Audio).mp3",
+        "name": "Michael Jackson - Can't Get Outta The Rain (Official Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-030",
+      "title": "Carousel",
+      "album": "Thriller",
+      "year": 1982,
+      "era": "Thriller",
+      "slug": "carousel",
+      "key": "C",
+      "bpm": 84,
+      "scale": "major",
+      "groove": "ballad",
+      "mood": {
+        "valence": 0.45,
+        "arousal": 0.55,
+        "danceability": 0.65,
+        "warmth": 0.8
+      },
+      "themes": [
+        "love",
+        "awe",
+        "nostalgia"
+      ],
+      "note": "A Thriller outtake that surfaced on later reissues.",
+      "feel": "A fairground ride that feels like a memory while it is happening.",
+      "colors": [
+        "#d21f2c",
+        "#160406"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Carousel%20(Official%20Audio).mp3",
+        "name": "Michael Jackson - Carousel (Official Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-027",
+      "title": "Human Nature",
+      "album": "Thriller",
+      "year": 1982,
+      "era": "Thriller",
+      "slug": "human-nature",
+      "key": "A",
+      "bpm": 92,
+      "scale": "major",
+      "groove": "ballad",
+      "mood": {
+        "valence": -0.05,
+        "arousal": 0.3,
+        "danceability": 0.5,
+        "warmth": 0.75
+      },
+      "themes": [
+        "melancholy",
+        "reflection",
+        "nostalgia"
+      ],
+      "note": "Written for Toto, kept for Thriller, and he fought to keep it.",
+      "feel": "A late drive with the windows down and nowhere to be.",
+      "colors": [
+        "#d21f2c",
+        "#160406"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Human%20Nature%20(Official%20Audio).mp3",
+        "name": "Michael Jackson - Human Nature (Official Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-028",
+      "title": "P.Y.T.",
+      "album": "Thriller",
+      "year": 1982,
+      "era": "Thriller",
+      "slug": "p-y-t",
+      "key": "Bm",
+      "bpm": 128,
+      "scale": "major",
+      "groove": "funk",
+      "mood": {
+        "valence": 0.85,
+        "arousal": 0.82,
+        "danceability": 0.93,
+        "warmth": 0.72
+      },
+      "themes": [
+        "joy",
+        "desire",
+        "playfulness"
+      ],
+      "note": "Stands for Pretty Young Thing, and he built the synth bed himself.",
+      "feel": "Flirting at full volume with absolutely no restraint.",
+      "colors": [
+        "#d21f2c",
+        "#160406"
+      ],
+      "aliases": [
+        "p y t pretty young thing",
+        "pyt pretty young thing",
+        "pretty young thing"
+      ],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20P.Y.T.%20(Pretty%20Young%20Thing)%20(Official%20Audio).mp3",
+        "name": "Michael Jackson - P.Y.T. (Pretty Young Thing) (Official Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-032",
+      "title": "She's Trouble",
+      "album": "Thriller",
+      "year": 1982,
+      "era": "Thriller",
+      "slug": "shes-trouble",
+      "key": "Am",
+      "bpm": 122,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": -0.25,
+        "arousal": 0.72,
+        "danceability": 0.82,
+        "warmth": 0.45
+      },
+      "themes": [
+        "playfulness",
+        "frustration",
+        "desire"
+      ],
+      "note": "A Thriller-era demo credited to Bill Bottrell.",
+      "feel": "Knowing better and going anyway, with a grin.",
+      "colors": [
+        "#d21f2c",
+        "#160406"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20She's%20Trouble%20(Demo%20-%20Official%20Audio).mp3",
+        "name": "Michael Jackson - She's Trouble (Demo - Official Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-023",
+      "title": "The Girl Is Mine",
+      "album": "Thriller",
+      "year": 1982,
+      "era": "Thriller",
+      "slug": "the-girl-is-mine",
+      "key": "C",
+      "bpm": 92,
+      "scale": "major",
+      "groove": "ballad",
+      "mood": {
+        "valence": 0.7,
+        "arousal": 0.45,
+        "danceability": 0.6,
+        "warmth": 0.8
+      },
+      "themes": [
+        "playfulness",
+        "love"
+      ],
+      "note": "The McCartney duet where they argue over a girl like schoolkids.",
+      "feel": "Gentle, funny, and completely unserious about itself.",
+      "colors": [
+        "#d21f2c",
+        "#160406"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20The%20Girl%20Is%20Mine%20(Official%20Audio).mp3",
+        "name": "Michael Jackson - The Girl Is Mine (Official Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-029",
+      "title": "The Lady in My Life",
+      "album": "Thriller",
+      "year": 1982,
+      "era": "Thriller",
+      "slug": "the-lady-in-my-life",
+      "key": "Ab",
+      "bpm": 70,
+      "scale": "major",
+      "groove": "ballad",
+      "mood": {
+        "valence": 0.85,
+        "arousal": 0.35,
+        "danceability": 0.5,
+        "warmth": 0.95
+      },
+      "themes": [
+        "love",
+        "desire",
+        "compassion"
+      ],
+      "note": "The quiet closer of the biggest album ever made.",
+      "feel": "Saying the tender thing out loud, slowly, and staying.",
+      "colors": [
+        "#d21f2c",
+        "#160406"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20The%20Lady%20in%20My%20Life%20(Audio).mp3",
+        "name": "Michael Jackson - The Lady in My Life (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-024",
+      "title": "Thriller",
+      "album": "Thriller",
+      "year": 1982,
+      "era": "Thriller",
+      "slug": "thriller",
+      "key": "C#m",
+      "bpm": 118,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": -0.15,
+        "arousal": 0.9,
+        "danceability": 0.9,
+        "warmth": 0.35
+      },
+      "themes": [
+        "fear",
+        "escapism",
+        "celebration"
+      ],
+      "note": "The only pop song that turned a horror movie voiceover into a dance routine.",
+      "feel": "Being deliciously scared because you know it is only a ride.",
+      "colors": [
+        "#d21f2c",
+        "#160406"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Thriller%20(Official%204K%20Video).mp3",
+        "name": "Michael Jackson - Thriller (Official 4K Video).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-021",
+      "title": "Wanna Be Startin' Somethin'",
+      "album": "Thriller",
+      "year": 1982,
+      "era": "Thriller",
+      "slug": "wanna-be-startin-somethin",
+      "key": "Em",
+      "bpm": 122,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": 0.5,
+        "arousal": 0.93,
+        "danceability": 0.96,
+        "warmth": 0.5
+      },
+      "themes": [
+        "defiance",
+        "tension",
+        "celebration"
+      ],
+      "note": "Opens Thriller with a 90-second chant that refuses to settle.",
+      "feel": "Too much energy to sit still and too much edge to relax.",
+      "colors": [
+        "#d21f2c",
+        "#160406"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Wanna%20Be%20Startin'%20Somethin'%20(Audio).mp3",
+        "name": "Michael Jackson - Wanna Be Startin' Somethin' (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-038",
+      "title": "Another Part of Me",
+      "album": "Bad",
+      "year": 1987,
+      "era": "Bad",
+      "slug": "another-part-of-me",
+      "key": "C",
+      "bpm": 122,
+      "scale": "major",
+      "groove": "funk",
+      "mood": {
+        "valence": 0.82,
+        "arousal": 0.85,
+        "danceability": 0.92,
+        "warmth": 0.7
+      },
+      "themes": [
+        "unity",
+        "confidence",
+        "hope"
+      ],
+      "note": "A Captain EO song that outgrew the theme park.",
+      "feel": "Realising you belong to something larger and it feels good.",
+      "colors": [
+        "#e9e9ee",
+        "#101014"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Another%20Part%20of%20Me%20(Official%20Video).mp3",
+        "name": "Michael Jackson - Another Part of Me (Official Video).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-034",
+      "title": "Bad",
+      "album": "Bad",
+      "year": 1987,
+      "era": "Bad",
+      "slug": "bad",
+      "key": "Am",
+      "bpm": 114,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": 0.35,
+        "arousal": 0.88,
+        "danceability": 0.92,
+        "warmth": 0.45
+      },
+      "themes": [
+        "defiance",
+        "confidence",
+        "tension"
+      ],
+      "note": "The 18-minute short film that changed what a music video could be.",
+      "feel": "Proving something to someone who stopped listening years ago.",
+      "colors": [
+        "#e9e9ee",
+        "#101014"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Bad%20(Official%20Video).mp3",
+        "name": "Michael Jackson - Bad (Official Video).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-041",
+      "title": "Dirty Diana",
+      "album": "Bad",
+      "year": 1987,
+      "era": "Bad",
+      "slug": "dirty-diana",
+      "key": "Gm",
+      "bpm": 132,
+      "scale": "minor",
+      "groove": "rock",
+      "mood": {
+        "valence": -0.45,
+        "arousal": 0.9,
+        "danceability": 0.88,
+        "warmth": 0.3
+      },
+      "themes": [
+        "obsession",
+        "desire",
+        "tension"
+      ],
+      "note": "Diana Ross reportedly told him she loved it.",
+      "feel": "Wanting the thing you already know is a bad idea.",
+      "colors": [
+        "#e9e9ee",
+        "#101014"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Dirty%20Diana%20(Official%20Video).mp3",
+        "name": "Michael Jackson - Dirty Diana (Official Video).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-040",
+      "title": "I Just Can't Stop Loving You",
+      "album": "Bad",
+      "year": 1987,
+      "era": "Bad",
+      "slug": "i-just-cant-stop-loving-you",
+      "key": "D",
+      "bpm": 76,
+      "scale": "major",
+      "groove": "ballad",
+      "mood": {
+        "valence": 0.82,
+        "arousal": 0.38,
+        "danceability": 0.5,
+        "warmth": 0.95
+      },
+      "themes": [
+        "love",
+        "devotion"
+      ],
+      "note": "The first single from Bad, a duet with Siedah Garrett.",
+      "feel": "A promise that does not waver, even when it probably should.",
+      "colors": [
+        "#e9e9ee",
+        "#101014"
+      ],
+      "aliases": [],
+      "feat": "Siedah Garrett",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%2C%20Siedah%20Garrett%20-%20I%20Just%20Can't%20Stop%20Loving%20You%20(Official%20Audio).mp3",
+        "name": "Michael Jackson, Siedah Garrett - I Just Can't Stop Loving You (Official Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-044",
+      "title": "Just Good Friends",
+      "album": "Bad",
+      "year": 1987,
+      "era": "Bad",
+      "slug": "just-good-friends",
+      "key": "A",
+      "bpm": 104,
+      "scale": "major",
+      "groove": "pop",
+      "mood": {
+        "valence": 0.45,
+        "arousal": 0.65,
+        "danceability": 0.8,
+        "warmth": 0.62
+      },
+      "themes": [
+        "playfulness",
+        "reflection",
+        "friendship"
+      ],
+      "note": "A Stevie Wonder duet about a romance that fizzled into friendship.",
+      "feel": "Being grown-up about it, mostly, and only slightly annoyed.",
+      "colors": [
+        "#e9e9ee",
+        "#101014"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Just%20Good%20Friends%20(Audio).mp3",
+        "name": "Michael Jackson - Just Good Friends (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-043",
+      "title": "Leave Me Alone",
+      "album": "Bad",
+      "year": 1987,
+      "era": "Bad",
+      "slug": "leave-me-alone",
+      "key": "Em",
+      "bpm": 128,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": -0.6,
+        "arousal": 0.88,
+        "danceability": 0.9,
+        "warmth": 0.25
+      },
+      "themes": [
+        "anger",
+        "defiance",
+        "alienation"
+      ],
+      "note": "A middle finger to the tabloids, delivered as a fairground ride.",
+      "feel": "Being talked about so much you stop feeling like a person.",
+      "colors": [
+        "#e9e9ee",
+        "#101014"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Leave%20Me%20Alone%20(Official%20Video).mp3",
+        "name": "Michael Jackson - Leave Me Alone (Official Video).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-037",
+      "title": "Liberian Girl",
+      "album": "Bad",
+      "year": 1987,
+      "era": "Bad",
+      "slug": "liberian-girl",
+      "key": "C",
+      "bpm": 84,
+      "scale": "major",
+      "groove": "ballad",
+      "mood": {
+        "valence": 0.8,
+        "arousal": 0.4,
+        "danceability": 0.6,
+        "warmth": 0.9
+      },
+      "themes": [
+        "love",
+        "compassion",
+        "awe"
+      ],
+      "note": "The video had 40 celebrities waiting to say one line to camera.",
+      "feel": "Loving someone from far away, gently and without demands.",
+      "colors": [
+        "#e9e9ee",
+        "#101014"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Liberian%20Girl%20(Official%20Video).mp3",
+        "name": "Michael Jackson - Liberian Girl (Official Video).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-039",
+      "title": "Man in the Mirror",
+      "album": "Bad",
+      "year": 1987,
+      "era": "Bad",
+      "slug": "man-in-the-mirror",
+      "key": "G",
+      "bpm": 100,
+      "scale": "major",
+      "groove": "epoch",
+      "mood": {
+        "valence": 0.45,
+        "arousal": 0.6,
+        "danceability": 0.5,
+        "warmth": 0.85
+      },
+      "themes": [
+        "reflection",
+        "hope",
+        "guilt",
+        "compassion"
+      ],
+      "note": "He stopped mid-session, told everyone to leave, and finished it alone.",
+      "feel": "Turning to face yourself and deciding to actually change.",
+      "colors": [
+        "#e9e9ee",
+        "#101014"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Man%20In%20The%20Mirror%20(Official%20Video).mp3",
+        "name": "Michael Jackson - Man In The Mirror (Official Video).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-042",
+      "title": "Smooth Criminal",
+      "album": "Bad",
+      "year": 1987,
+      "era": "Bad",
+      "slug": "smooth-criminal",
+      "key": "Am",
+      "bpm": 118,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": -0.35,
+        "arousal": 0.85,
+        "danceability": 0.93,
+        "warmth": 0.3
+      },
+      "themes": [
+        "tension",
+        "intrigue",
+        "obsession"
+      ],
+      "note": "That forward lean was done with a hidden harness and a lot of practice.",
+      "feel": "Piecing together what happened in a room you never saw.",
+      "colors": [
+        "#e9e9ee",
+        "#101014"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Smooth%20Criminal%20(Official%20Video).mp3",
+        "name": "Michael Jackson - Smooth Criminal (Official Video).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-036",
+      "title": "Speed Demon",
+      "album": "Bad",
+      "year": 1987,
+      "era": "Bad",
+      "slug": "speed-demon",
+      "key": "Am",
+      "bpm": 158,
+      "scale": "minor",
+      "groove": "rock",
+      "mood": {
+        "valence": -0.2,
+        "arousal": 0.95,
+        "danceability": 0.85,
+        "warmth": 0.3
+      },
+      "themes": [
+        "tension",
+        "escapism",
+        "restlessness"
+      ],
+      "note": "The claymation chase that followed the Bad video.",
+      "feel": "Too fast to think, and choosing to keep going faster.",
+      "colors": [
+        "#e9e9ee",
+        "#101014"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Speed%20Demon%20(Official%20Video).mp3",
+        "name": "Michael Jackson - Speed Demon (Official Video).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-035",
+      "title": "The Way You Make Me Feel",
+      "album": "Bad",
+      "year": 1987,
+      "era": "Bad",
+      "slug": "the-way-you-make-me-feel",
+      "key": "E",
+      "bpm": 114,
+      "scale": "major",
+      "groove": "funk",
+      "mood": {
+        "valence": 0.85,
+        "arousal": 0.78,
+        "danceability": 0.93,
+        "warmth": 0.78
+      },
+      "themes": [
+        "desire",
+        "love",
+        "celebration"
+      ],
+      "note": "The shimmy on the street that took a whole day to shoot.",
+      "feel": "The giddy, undignified joy of wanting someone who is right there.",
+      "colors": [
+        "#e9e9ee",
+        "#101014"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20The%20Way%20You%20Make%20Me%20Feel%20(Official%20Video).mp3",
+        "name": "Michael Jackson - The Way You Make Me Feel (Official Video).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-053",
+      "title": "Black or White",
+      "album": "Dangerous",
+      "year": 1991,
+      "era": "Dangerous",
+      "slug": "black-or-white",
+      "key": "E",
+      "bpm": 116,
+      "scale": "major",
+      "groove": "rock",
+      "mood": {
+        "valence": 0.72,
+        "arousal": 0.8,
+        "danceability": 0.92,
+        "warmth": 0.78
+      },
+      "themes": [
+        "unity",
+        "joy",
+        "defiance"
+      ],
+      "note": "The morphing faces segment pulled the video from some networks.",
+      "feel": "Loud, joyful refusal to accept a line between people.",
+      "colors": [
+        "#e0b34a",
+        "#241703"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Black%20or%20White%20(Official%20Video%20-%20Upscaled).mp3",
+        "name": "Michael Jackson - Black or White (Official Video - Upscaled).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-050",
+      "title": "Can't Let Her Get Away",
+      "album": "Dangerous",
+      "year": 1991,
+      "era": "Dangerous",
+      "slug": "cant-let-her-get-away",
+      "key": "Bm",
+      "bpm": 106,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": -0.35,
+        "arousal": 0.75,
+        "danceability": 0.88,
+        "warmth": 0.4
+      },
+      "themes": [
+        "longing",
+        "desire",
+        "loss"
+      ],
+      "note": "A Teddy Riley production with a very long fade.",
+      "feel": "Holding on past the point where it is good for you.",
+      "colors": [
+        "#e0b34a",
+        "#241703"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Can't%20Let%20Her%20Get%20Away%20(Audio).mp3",
+        "name": "Michael Jackson - Can't Let Her Get Away (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-059",
+      "title": "Dangerous",
+      "album": "Dangerous",
+      "year": 1991,
+      "era": "Dangerous",
+      "slug": "dangerous",
+      "key": "Dm",
+      "bpm": 118,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": -0.2,
+        "arousal": 0.88,
+        "danceability": 0.93,
+        "warmth": 0.35
+      },
+      "themes": [
+        "intrigue",
+        "tension",
+        "desire"
+      ],
+      "note": "The title track was released as a single eight years later.",
+      "feel": "The pull of something that is clearly trouble.",
+      "colors": [
+        "#e0b34a",
+        "#241703"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Dangerous%20(Audio).mp3",
+        "name": "Michael Jackson - Dangerous (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-055",
+      "title": "Give In to Me",
+      "album": "Dangerous",
+      "year": 1991,
+      "era": "Dangerous",
+      "slug": "give-in-to-me",
+      "key": "Gm",
+      "bpm": 128,
+      "scale": "minor",
+      "groove": "rock",
+      "mood": {
+        "valence": -0.55,
+        "arousal": 0.88,
+        "danceability": 0.8,
+        "warmth": 0.3
+      },
+      "themes": [
+        "anger",
+        "desire",
+        "tension"
+      ],
+      "note": "Slash on guitar, and a vocal that sounds genuinely unhinged.",
+      "feel": "Wrestling with something that is winning.",
+      "colors": [
+        "#e0b34a",
+        "#241703"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Give%20In%20To%20Me%20(Official%20Video%20-%20Upscaled).mp3",
+        "name": "Michael Jackson - Give In To Me (Official Video - Upscaled).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-058",
+      "title": "Gone Too Soon",
+      "album": "Dangerous",
+      "year": 1991,
+      "era": "Dangerous",
+      "slug": "gone-too-soon",
+      "key": "C",
+      "bpm": 66,
+      "scale": "major",
+      "groove": "ballad",
+      "mood": {
+        "valence": -0.85,
+        "arousal": 0.3,
+        "danceability": 0.2,
+        "warmth": 0.9
+      },
+      "themes": [
+        "grief",
+        "loss",
+        "compassion"
+      ],
+      "note": "Written for Ryan White and performed at Bill Clinton’s inauguration.",
+      "feel": "The particular ache of a life that ended far too early.",
+      "colors": [
+        "#e0b34a",
+        "#241703"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Gone%20Too%20Soon%20(Official%20Video).mp3",
+        "name": "Michael Jackson - Gone Too Soon (Official Video).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-052",
+      "title": "Heal the World",
+      "album": "Dangerous",
+      "year": 1991,
+      "era": "Dangerous",
+      "slug": "heal-the-world",
+      "key": "A",
+      "bpm": 78,
+      "scale": "major",
+      "groove": "epoch",
+      "mood": {
+        "valence": 0.78,
+        "arousal": 0.45,
+        "danceability": 0.4,
+        "warmth": 0.95
+      },
+      "themes": [
+        "compassion",
+        "hope",
+        "unity"
+      ],
+      "note": "He founded a charity with the same name the year it came out.",
+      "feel": "Wanting, very simply, for the world to stop hurting itself.",
+      "colors": [
+        "#e0b34a",
+        "#241703"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Heal%20The%20World%20(Official%20Video).mp3",
+        "name": "Michael Jackson - Heal The World (Official Video).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-048",
+      "title": "In the Closet",
+      "album": "Dangerous",
+      "year": 1991,
+      "era": "Dangerous",
+      "slug": "in-the-closet",
+      "key": "Cm",
+      "bpm": 112,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": 0.3,
+        "arousal": 0.72,
+        "danceability": 0.88,
+        "warmth": 0.45
+      },
+      "themes": [
+        "desire",
+        "tension",
+        "intrigue"
+      ],
+      "note": "Credited to Mystery Girl, who turned out to be Princess Stephanie.",
+      "feel": "Something you want that you are not supposed to want out loud.",
+      "colors": [
+        "#e0b34a",
+        "#241703"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20In%20the%20Closet%20(Official%20Video%20-%20Upscaled).mp3",
+        "name": "Michael Jackson - In the Closet (Official Video - Upscaled).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-046",
+      "title": "Jam",
+      "album": "Dangerous",
+      "year": 1991,
+      "era": "Dangerous",
+      "slug": "jam",
+      "key": "Bm",
+      "bpm": 116,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": -0.35,
+        "arousal": 0.9,
+        "danceability": 0.95,
+        "warmth": 0.3
+      },
+      "themes": [
+        "urgency",
+        "frustration",
+        "defiance"
+      ],
+      "note": "A Heavy D rap and a basketball court, and the album opens.",
+      "feel": "Panic with a beat, or a beat that keeps panic at bay.",
+      "colors": [
+        "#e0b34a",
+        "#241703"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Jam%20(Official%20Video%20-%20Upscaled).mp3",
+        "name": "Michael Jackson - Jam (Official Video - Upscaled).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-057",
+      "title": "Keep the Faith",
+      "album": "Dangerous",
+      "year": 1991,
+      "era": "Dangerous",
+      "slug": "keep-the-faith",
+      "key": "E",
+      "bpm": 118,
+      "scale": "major",
+      "groove": "epoch",
+      "mood": {
+        "valence": 0.78,
+        "arousal": 0.78,
+        "danceability": 0.7,
+        "warmth": 0.75
+      },
+      "themes": [
+        "resilience",
+        "faith",
+        "hope"
+      ],
+      "note": "A gospel choir he assembled and directed himself.",
+      "feel": "Standing back up because someone told you it was still possible.",
+      "colors": [
+        "#e0b34a",
+        "#241703"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Keep%20the%20Faith%20(Audio).mp3",
+        "name": "Michael Jackson - Keep the Faith (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-051",
+      "title": "Remember the Time",
+      "album": "Dangerous",
+      "year": 1991,
+      "era": "Dangerous",
+      "slug": "remember-the-time",
+      "key": "C",
+      "bpm": 108,
+      "scale": "major",
+      "groove": "funk",
+      "mood": {
+        "valence": 0.7,
+        "arousal": 0.6,
+        "danceability": 0.85,
+        "warmth": 0.8
+      },
+      "themes": [
+        "nostalgia",
+        "love",
+        "loss"
+      ],
+      "note": "The nine-minute desert court video with Eddie Murphy and Iman.",
+      "feel": "Missing someone from a time that felt easier than now.",
+      "colors": [
+        "#e0b34a",
+        "#241703"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Remember%20the%20Time%20(Official%20Video%20-%20Upscaled).mp3",
+        "name": "Michael Jackson - Remember the Time (Official Video - Upscaled).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-049",
+      "title": "She Drives Me Wild",
+      "album": "Dangerous",
+      "year": 1991,
+      "era": "Dangerous",
+      "slug": "she-drives-me-wild",
+      "key": "Em",
+      "bpm": 124,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": 0.2,
+        "arousal": 0.88,
+        "danceability": 0.93,
+        "warmth": 0.4
+      },
+      "themes": [
+        "desire",
+        "tension",
+        "urgency"
+      ],
+      "note": "Built on a drum loop and a car-engine sample.",
+      "feel": "Wanting someone so loudly it drowns out everything else.",
+      "colors": [
+        "#e0b34a",
+        "#241703"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20She%20Drives%20Me%20Wild%20(Audio).mp3",
+        "name": "Michael Jackson - She Drives Me Wild (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-054",
+      "title": "Who Is It",
+      "album": "Dangerous",
+      "year": 1991,
+      "era": "Dangerous",
+      "slug": "who-is-it",
+      "key": "Em",
+      "bpm": 108,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": -0.78,
+        "arousal": 0.65,
+        "danceability": 0.82,
+        "warmth": 0.35
+      },
+      "themes": [
+        "betrayal",
+        "loss",
+        "heartbreak"
+      ],
+      "note": "Dedicated to his mother, and one of his own favourites.",
+      "feel": "The floor dropping when you realise who it was all along.",
+      "colors": [
+        "#e0b34a",
+        "#241703"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Who%20Is%20It%20(Official%20Video%20-%20Upscaled).mp3",
+        "name": "Michael Jackson - Who Is It (Official Video - Upscaled).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-047",
+      "title": "Why You Wanna Trip on Me",
+      "album": "Dangerous",
+      "year": 1991,
+      "era": "Dangerous",
+      "slug": "why-you-wanna-trip-on-me",
+      "key": "Gm",
+      "bpm": 118,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": -0.65,
+        "arousal": 0.85,
+        "danceability": 0.88,
+        "warmth": 0.25
+      },
+      "themes": [
+        "anger",
+        "injustice",
+        "defiance"
+      ],
+      "note": "Directed at a world obsessed with his life and blind to its own.",
+      "feel": "The exhaustion of being judged while nobody looks at themselves.",
+      "colors": [
+        "#e0b34a",
+        "#241703"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Why%20You%20Wanna%20Trip%20on%20Me%20(Audio).mp3",
+        "name": "Michael Jackson - Why You Wanna Trip on Me (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-056",
+      "title": "Will You Be There",
+      "album": "Dangerous",
+      "year": 1991,
+      "era": "Dangerous",
+      "slug": "will-you-be-there",
+      "key": "F",
+      "bpm": 82,
+      "scale": "major",
+      "groove": "epoch",
+      "mood": {
+        "valence": 0.6,
+        "arousal": 0.45,
+        "danceability": 0.4,
+        "warmth": 0.92
+      },
+      "themes": [
+        "faith",
+        "comfort",
+        "loneliness",
+        "hope"
+      ],
+      "note": "The Free Willy theme, with a spoken outro taken from his own poem.",
+      "feel": "Asking, quietly, to be held, and half-expecting no.",
+      "colors": [
+        "#e0b34a",
+        "#241703"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Will%20You%20Be%20There%20(Official%20Video%20-%20Upscaled).mp3",
+        "name": "Michael Jackson - Will You Be There (Official Video - Upscaled).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-070",
+      "title": "2 Bad",
+      "album": "HIStory",
+      "year": 1995,
+      "era": "HIStory",
+      "slug": "2-bad",
+      "key": "Bm",
+      "bpm": 118,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": -0.4,
+        "arousal": 0.9,
+        "danceability": 0.9,
+        "warmth": 0.3
+      },
+      "themes": [
+        "defiance",
+        "anger"
+      ],
+      "note": "A rapper, a boxer, and a very fast bassline.",
+      "feel": "Telling someone to bring it, because you are done flinching.",
+      "colors": [
+        "#8fa3b8",
+        "#101720"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%202%20Bad%20(Audio).mp3",
+        "name": "Michael Jackson - 2 Bad (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-068",
+      "title": "Childhood",
+      "album": "HIStory",
+      "year": 1995,
+      "era": "HIStory",
+      "slug": "childhood",
+      "key": "C",
+      "bpm": 68,
+      "scale": "major",
+      "groove": "ballad",
+      "mood": {
+        "valence": -0.35,
+        "arousal": 0.3,
+        "danceability": 0.3,
+        "warmth": 0.88
+      },
+      "themes": [
+        "vulnerability",
+        "nostalgia",
+        "sadness"
+      ],
+      "note": "The one he wanted people to hear before they judged him.",
+      "feel": "Explaining a wound you never chose and cannot fully describe.",
+      "colors": [
+        "#8fa3b8",
+        "#101720"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Childhood%20(Official%20Video).mp3",
+        "name": "Michael Jackson - Childhood (Official Video).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-073",
+      "title": "Come Together",
+      "album": "HIStory",
+      "year": 1995,
+      "era": "HIStory",
+      "slug": "come-together",
+      "key": "Bm",
+      "bpm": 96,
+      "scale": "minor",
+      "groove": "funk-rock",
+      "mood": {
+        "valence": 0.65,
+        "arousal": 0.62,
+        "danceability": 0.75,
+        "warmth": 0.75
+      },
+      "themes": [
+        "unity",
+        "hope",
+        "playfulness"
+      ],
+      "note": "A Beatles cover recorded for the Moonwalker film.",
+      "feel": "A crowd of people finding the same groove at the same time.",
+      "colors": [
+        "#8fa3b8",
+        "#101720"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Come%20Together%20(Official%20Video).mp3",
+        "name": "Michael Jackson - Come Together (Official Video).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-065",
+      "title": "D.S.",
+      "album": "HIStory",
+      "year": 1995,
+      "era": "HIStory",
+      "slug": "d-s",
+      "key": "Am",
+      "bpm": 116,
+      "scale": "minor",
+      "groove": "funk-rock",
+      "mood": {
+        "valence": -0.8,
+        "arousal": 0.85,
+        "danceability": 0.82,
+        "warmth": 0.2
+      },
+      "themes": [
+        "anger",
+        "injustice",
+        "defiance"
+      ],
+      "note": "A blunt, furious character assassination set to a hard rock riff.",
+      "feel": "Rage with a name attached to it.",
+      "colors": [
+        "#8fa3b8",
+        "#101720"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20D.S.%20(Audio).mp3",
+        "name": "Michael Jackson - D.S. (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-064",
+      "title": "Earth Song",
+      "album": "HIStory",
+      "year": 1995,
+      "era": "HIStory",
+      "slug": "earth-song",
+      "key": "Ab",
+      "bpm": 70,
+      "scale": "minor",
+      "groove": "epoch",
+      "mood": {
+        "valence": -0.5,
+        "arousal": 0.55,
+        "danceability": 0.3,
+        "warmth": 0.9
+      },
+      "themes": [
+        "grief",
+        "urgency",
+        "compassion"
+      ],
+      "note": "The UK Christmas number one, and never a US single.",
+      "feel": "Grief for something being lost that cannot argue back.",
+      "colors": [
+        "#8fa3b8",
+        "#101720"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Earth%20Song%20(Official%20Video).mp3",
+        "name": "Michael Jackson - Earth Song (Official Video).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-071",
+      "title": "HIStory",
+      "album": "HIStory",
+      "year": 1995,
+      "era": "HIStory",
+      "slug": "history",
+      "key": "Cm",
+      "bpm": 84,
+      "scale": "minor",
+      "groove": "epoch",
+      "mood": {
+        "valence": -0.1,
+        "arousal": 0.5,
+        "danceability": 0.45,
+        "warmth": 0.75
+      },
+      "themes": [
+        "reflection",
+        "hope",
+        "melancholy"
+      ],
+      "note": "The song the album is named after, more question than statement.",
+      "feel": "Trying to work out what any of it was for.",
+      "colors": [
+        "#8fa3b8",
+        "#101720"
+      ],
+      "aliases": [
+        "history"
+      ],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20History%20(Audio).mp3",
+        "name": "Michael Jackson - History (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-072",
+      "title": "Little Susie",
+      "album": "HIStory",
+      "year": 1995,
+      "era": "HIStory",
+      "slug": "little-susie",
+      "key": "Gm",
+      "bpm": 62,
+      "scale": "minor",
+      "groove": "ballad",
+      "mood": {
+        "valence": -0.9,
+        "arousal": 0.35,
+        "danceability": 0.15,
+        "warmth": 0.85
+      },
+      "themes": [
+        "tragedy",
+        "grief",
+        "compassion"
+      ],
+      "note": "Built on a melody he had hummed since childhood.",
+      "feel": "The stillness of something unthinkably sad and very small.",
+      "colors": [
+        "#8fa3b8",
+        "#101720"
+      ],
+      "aliases": [
+        "little susie pie jesu",
+        "little susie ⧸ pie jesu"
+      ],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Little%20Susie%20%E2%A7%B8%20Pie%20Jesu%20(Audio).mp3",
+        "name": "Michael Jackson - Little Susie ⧸ Pie Jesu (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-066",
+      "title": "Money",
+      "album": "HIStory",
+      "year": 1995,
+      "era": "HIStory",
+      "slug": "money",
+      "key": "Am",
+      "bpm": 120,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": -0.6,
+        "arousal": 0.8,
+        "danceability": 0.85,
+        "warmth": 0.25
+      },
+      "themes": [
+        "cynicism",
+        "anger"
+      ],
+      "note": "Opens with a recording of a slot machine.",
+      "feel": "Watching people choose the cash and stop pretending otherwise.",
+      "colors": [
+        "#8fa3b8",
+        "#101720"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Money%20(Audio).mp3",
+        "name": "Michael Jackson - Money (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-060",
+      "title": "Scream",
+      "album": "HIStory",
+      "year": 1995,
+      "era": "HIStory",
+      "slug": "scream",
+      "key": "Bm",
+      "bpm": 102,
+      "scale": "minor",
+      "groove": "funk-rock",
+      "mood": {
+        "valence": -0.8,
+        "arousal": 0.92,
+        "danceability": 0.85,
+        "warmth": 0.25
+      },
+      "themes": [
+        "anger",
+        "frustration",
+        "defiance"
+      ],
+      "note": "The most expensive music video ever made, with Janet.",
+      "feel": "Fury that finally found a rhythm instead of a wall.",
+      "colors": [
+        "#8fa3b8",
+        "#101720"
+      ],
+      "aliases": [],
+      "feat": "Janet Jackson",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%2C%20Janet%20Jackson%20-%20Scream%20(Official%20Video).mp3",
+        "name": "Michael Jackson, Janet Jackson - Scream (Official Video).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-062",
+      "title": "Stranger in Moscow",
+      "album": "HIStory",
+      "year": 1995,
+      "era": "HIStory",
+      "slug": "stranger-in-moscow",
+      "key": "Am",
+      "bpm": 80,
+      "scale": "minor",
+      "groove": "ballad",
+      "mood": {
+        "valence": -0.82,
+        "arousal": 0.35,
+        "danceability": 0.4,
+        "warmth": 0.55
+      },
+      "themes": [
+        "alienation",
+        "loneliness",
+        "melancholy"
+      ],
+      "note": "Written in a Moscow hotel room during a very bad week.",
+      "feel": "Rain on a window in a city where nobody knows your name.",
+      "colors": [
+        "#8fa3b8",
+        "#101720"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Stranger%20In%20Moscow%20(Official%20Video).mp3",
+        "name": "Michael Jackson - Stranger In Moscow (Official Video).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-069",
+      "title": "Tabloid Junkie",
+      "album": "HIStory",
+      "year": 1995,
+      "era": "HIStory",
+      "slug": "tabloid-junkie",
+      "key": "Bm",
+      "bpm": 116,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": -0.7,
+        "arousal": 0.85,
+        "danceability": 0.88,
+        "warmth": 0.2
+      },
+      "themes": [
+        "anger",
+        "alienation",
+        "defiance"
+      ],
+      "note": "An argument with the press, spelled out in the liner notes.",
+      "feel": "Reading a lie about yourself and feeling your jaw tighten.",
+      "colors": [
+        "#8fa3b8",
+        "#101720"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Tabloid%20Junkie%20(Audio).mp3",
+        "name": "Michael Jackson - Tabloid Junkie (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-061",
+      "title": "They Don't Care About Us",
+      "album": "HIStory",
+      "year": 1995,
+      "era": "HIStory",
+      "slug": "they-dont-care-about-us",
+      "key": "Bm",
+      "bpm": 90,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": -0.72,
+        "arousal": 0.88,
+        "danceability": 0.9,
+        "warmth": 0.35
+      },
+      "themes": [
+        "anger",
+        "injustice",
+        "defiance"
+      ],
+      "note": "The lyrics were edited in some pressings; he called the edits antisemitic.",
+      "feel": "The roar of being failed by a system and saying so anyway.",
+      "colors": [
+        "#8fa3b8",
+        "#101720"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20They%20Don't%20Care%20About%20Us.mp3",
+        "name": "Michael Jackson - They Don't Care About Us.mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-063",
+      "title": "This Time Around",
+      "album": "HIStory",
+      "year": 1995,
+      "era": "HIStory",
+      "slug": "this-time-around",
+      "key": "Bm",
+      "bpm": 122,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": -0.6,
+        "arousal": 0.8,
+        "danceability": 0.85,
+        "warmth": 0.25
+      },
+      "themes": [
+        "betrayal",
+        "anger",
+        "cynicism"
+      ],
+      "note": "A Notorious B.I.G. verse sits in the middle of it.",
+      "feel": "Done being nice about it, and saying so plainly.",
+      "colors": [
+        "#8fa3b8",
+        "#101720"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20This%20Time%20Around%20(Audio).mp3",
+        "name": "Michael Jackson - This Time Around (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-067",
+      "title": "You Are Not Alone",
+      "album": "HIStory",
+      "year": 1995,
+      "era": "HIStory",
+      "slug": "you-are-not-alone",
+      "key": "Bb",
+      "bpm": 76,
+      "scale": "major",
+      "groove": "ballad",
+      "mood": {
+        "valence": 0.55,
+        "arousal": 0.38,
+        "danceability": 0.5,
+        "warmth": 0.95
+      },
+      "themes": [
+        "comfort",
+        "hope",
+        "loneliness"
+      ],
+      "note": "The only song to debut at number one on the Hot 100 until 1997.",
+      "feel": "Someone reaching for your hand in the dark, and finding it.",
+      "colors": [
+        "#8fa3b8",
+        "#101720"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20You%20Are%20Not%20Alone%20(Official%20Video).mp3",
+        "name": "Michael Jackson - You Are Not Alone (Official Video).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-075",
+      "title": "Blood on the Dance Floor",
+      "album": "Blood on the Dance Floor",
+      "year": 1997,
+      "era": "HIStory",
+      "slug": "blood-on-the-dance-floor",
+      "key": "Fm",
+      "bpm": 124,
+      "scale": "minor",
+      "groove": "disco",
+      "mood": {
+        "valence": -0.3,
+        "arousal": 0.9,
+        "danceability": 0.95,
+        "warmth": 0.3
+      },
+      "themes": [
+        "tension",
+        "desire",
+        "obsession"
+      ],
+      "note": "The best-selling remix album of all time.",
+      "feel": "Something dangerous wearing dancing shoes.",
+      "colors": [
+        "#8b1a24",
+        "#160305"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Blood%20On%20The%20Dance%20Floor%20(Official%20Video).mp3",
+        "name": "Michael Jackson - Blood On The Dance Floor (Official Video).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-078",
+      "title": "Ghosts",
+      "album": "Blood on the Dance Floor",
+      "year": 1997,
+      "era": "HIStory",
+      "slug": "ghosts",
+      "key": "Gm",
+      "bpm": 110,
+      "scale": "minor",
+      "groove": "funk-rock",
+      "mood": {
+        "valence": -0.45,
+        "arousal": 0.82,
+        "danceability": 0.8,
+        "warmth": 0.3
+      },
+      "themes": [
+        "fear",
+        "alienation",
+        "tension"
+      ],
+      "note": "He wrote, directed and choreographed the short film himself.",
+      "feel": "Being the thing everyone is frightened of and not knowing why.",
+      "colors": [
+        "#8b1a24",
+        "#160305"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Ghosts%20(Official%20Video%20-%20Shortened%20Version).mp3",
+        "name": "Michael Jackson - Ghosts (Official Video - Shortened Version).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-079",
+      "title": "Is It Scary",
+      "album": "Blood on the Dance Floor",
+      "year": 1997,
+      "era": "HIStory",
+      "slug": "is-it-scary",
+      "key": "Fm",
+      "bpm": 116,
+      "scale": "minor",
+      "groove": "funk-rock",
+      "mood": {
+        "valence": -0.55,
+        "arousal": 0.78,
+        "danceability": 0.78,
+        "warmth": 0.3
+      },
+      "themes": [
+        "fear",
+        "alienation",
+        "vulnerability"
+      ],
+      "note": "A song about being the monster in other people’s stories.",
+      "feel": "Asking whether you are frightening or just frightened.",
+      "colors": [
+        "#8b1a24",
+        "#160305"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Is%20It%20Scary%20(Audio).mp3",
+        "name": "Michael Jackson - Is It Scary (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-080",
+      "title": "Morphine",
+      "album": "Blood on the Dance Floor",
+      "year": 1997,
+      "era": "HIStory",
+      "slug": "morphine",
+      "key": "Cm",
+      "bpm": 122,
+      "scale": "minor",
+      "groove": "funk-rock",
+      "mood": {
+        "valence": -0.75,
+        "arousal": 0.88,
+        "danceability": 0.8,
+        "warmth": 0.2
+      },
+      "themes": [
+        "tension",
+        "anguish",
+        "intensity"
+      ],
+      "note": "A jarring, genuinely unsettling industrial track.",
+      "feel": "A nerve that will not stop firing.",
+      "colors": [
+        "#8b1a24",
+        "#160305"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Morphine%20(Audio).mp3",
+        "name": "Michael Jackson - Morphine (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-089",
+      "title": "2000 Watts",
+      "album": "Invincible",
+      "year": 2001,
+      "era": "Invincible",
+      "slug": "2000-watts",
+      "key": "Cm",
+      "bpm": 118,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": -0.15,
+        "arousal": 0.9,
+        "danceability": 0.88,
+        "warmth": 0.3
+      },
+      "themes": [
+        "intensity",
+        "tension",
+        "desire"
+      ],
+      "note": "A low, growling vocal he rarely used anywhere else.",
+      "feel": "Dialled all the way up with the knobs pulled off.",
+      "colors": [
+        "#2ec5c0",
+        "#0a2a33"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%202000%20Watts%20(Audio).mp3",
+        "name": "Michael Jackson - 2000 Watts (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-084",
+      "title": "Break of Dawn",
+      "album": "Invincible",
+      "year": 2001,
+      "era": "Invincible",
+      "slug": "break-of-dawn",
+      "key": "C",
+      "bpm": 108,
+      "scale": "major",
+      "groove": "ballad",
+      "mood": {
+        "valence": 0.85,
+        "arousal": 0.45,
+        "danceability": 0.6,
+        "warmth": 0.9
+      },
+      "themes": [
+        "sensuality",
+        "love",
+        "peace"
+      ],
+      "note": "A soft landing two songs into the album.",
+      "feel": "Waking up next to someone with nowhere to be.",
+      "colors": [
+        "#2ec5c0",
+        "#0a2a33"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Break%20of%20Dawn%20(Official%20Audio).mp3",
+        "name": "Michael Jackson - Break of Dawn (Official Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-087",
+      "title": "Butterflies",
+      "album": "Invincible",
+      "year": 2001,
+      "era": "Invincible",
+      "slug": "butterflies",
+      "key": "C",
+      "bpm": 90,
+      "scale": "major",
+      "groove": "ballad",
+      "mood": {
+        "valence": 0.82,
+        "arousal": 0.4,
+        "danceability": 0.6,
+        "warmth": 0.92
+      },
+      "themes": [
+        "love",
+        "compassion",
+        "devotion"
+      ],
+      "note": "Reached the R&B top forty without ever being a single.",
+      "feel": "The soft, endless middle of being in love.",
+      "colors": [
+        "#2ec5c0",
+        "#0a2a33"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Butterflies%20(Audio).mp3",
+        "name": "Michael Jackson - Butterflies (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-096",
+      "title": "Cry",
+      "album": "Invincible",
+      "year": 2001,
+      "era": "Invincible",
+      "slug": "cry",
+      "key": "C",
+      "bpm": 80,
+      "scale": "major",
+      "groove": "epoch",
+      "mood": {
+        "valence": -0.35,
+        "arousal": 0.5,
+        "danceability": 0.4,
+        "warmth": 0.85
+      },
+      "themes": [
+        "sorrow",
+        "compassion",
+        "hope"
+      ],
+      "note": "A gospel plea for the world, with a choir recorded in a single room.",
+      "feel": "Sorrow that still believes things could change.",
+      "colors": [
+        "#2ec5c0",
+        "#0a2a33"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Cry%20(Official%20Video).mp3",
+        "name": "Michael Jackson - Cry (Official Video).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-094",
+      "title": "Don't Walk Away",
+      "album": "Invincible",
+      "year": 2001,
+      "era": "Invincible",
+      "slug": "dont-walk-away",
+      "key": "C",
+      "bpm": 78,
+      "scale": "major",
+      "groove": "ballad",
+      "mood": {
+        "valence": -0.6,
+        "arousal": 0.42,
+        "danceability": 0.45,
+        "warmth": 0.75
+      },
+      "themes": [
+        "heartbreak",
+        "vulnerability",
+        "longing"
+      ],
+      "note": "A quiet plea that never became a single.",
+      "feel": "Asking someone to stay without any leverage left.",
+      "colors": [
+        "#2ec5c0",
+        "#0a2a33"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Don't%20Walk%20Away%20(Audio).mp3",
+        "name": "Michael Jackson - Don't Walk Away (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-082",
+      "title": "Heartbreaker",
+      "album": "Invincible",
+      "year": 2001,
+      "era": "Invincible",
+      "slug": "heartbreaker",
+      "key": "Bm",
+      "bpm": 112,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": -0.55,
+        "arousal": 0.82,
+        "danceability": 0.9,
+        "warmth": 0.35
+      },
+      "themes": [
+        "heartbreak",
+        "anger",
+        "betrayal"
+      ],
+      "note": "A beat built to sound like a text message going unanswered.",
+      "feel": "The anger that arrives right after the sadness.",
+      "colors": [
+        "#2ec5c0",
+        "#0a2a33"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Heartbreaker%20(Audio).mp3",
+        "name": "Michael Jackson - Heartbreaker (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-085",
+      "title": "Heaven Can Wait",
+      "album": "Invincible",
+      "year": 2001,
+      "era": "Invincible",
+      "slug": "heaven-can-wait",
+      "key": "Eb",
+      "bpm": 90,
+      "scale": "major",
+      "groove": "ballad",
+      "mood": {
+        "valence": 0.25,
+        "arousal": 0.45,
+        "danceability": 0.5,
+        "warmth": 0.9
+      },
+      "themes": [
+        "longing",
+        "love",
+        "devotion"
+      ],
+      "note": "One of the most-covered songs he wrote late in his career.",
+      "feel": "Bargaining for a little more time with someone you love.",
+      "colors": [
+        "#2ec5c0",
+        "#0a2a33"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Heaven%20Can%20Wait%20(Official%20Audio).mp3",
+        "name": "Michael Jackson - Heaven Can Wait (Official Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-083",
+      "title": "Invincible",
+      "album": "Invincible",
+      "year": 2001,
+      "era": "Invincible",
+      "slug": "invincible",
+      "key": "Em",
+      "bpm": 116,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": 0.6,
+        "arousal": 0.85,
+        "danceability": 0.9,
+        "warmth": 0.55
+      },
+      "themes": [
+        "confidence",
+        "resilience"
+      ],
+      "note": "The title track, never released as a single.",
+      "feel": "Knowing exactly who you are and refusing to argue about it.",
+      "colors": [
+        "#2ec5c0",
+        "#0a2a33"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Invincible%20(Audio).mp3",
+        "name": "Michael Jackson - Invincible (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-090",
+      "title": "Privacy",
+      "album": "Invincible",
+      "year": 2001,
+      "era": "Invincible",
+      "slug": "privacy",
+      "key": "Bm",
+      "bpm": 122,
+      "scale": "minor",
+      "groove": "funk-rock",
+      "mood": {
+        "valence": -0.65,
+        "arousal": 0.85,
+        "danceability": 0.85,
+        "warmth": 0.2
+      },
+      "themes": [
+        "anger",
+        "alienation",
+        "defiance"
+      ],
+      "note": "The last song on the album, and the angriest.",
+      "feel": "The rage of having no door left to close.",
+      "colors": [
+        "#2ec5c0",
+        "#0a2a33"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Privacy%20(Audio).mp3",
+        "name": "Michael Jackson - Privacy (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-088",
+      "title": "Speechless",
+      "album": "Invincible",
+      "year": 2001,
+      "era": "Invincible",
+      "slug": "speechless",
+      "key": "C",
+      "bpm": 70,
+      "scale": "major",
+      "groove": "ballad",
+      "mood": {
+        "valence": 0.7,
+        "arousal": 0.3,
+        "danceability": 0.25,
+        "warmth": 0.95
+      },
+      "themes": [
+        "awe",
+        "love",
+        "compassion",
+        "hope"
+      ],
+      "note": "A cappella opening, and a choir he built from his own voice.",
+      "feel": "Being so grateful it briefly stops the words.",
+      "colors": [
+        "#2ec5c0",
+        "#0a2a33"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Speechless%20(Audio).mp3",
+        "name": "Michael Jackson - Speechless (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-093",
+      "title": "The Lost Children",
+      "album": "Invincible",
+      "year": 2001,
+      "era": "Invincible",
+      "slug": "the-lost-children",
+      "key": "D",
+      "bpm": 76,
+      "scale": "major",
+      "groove": "ballad",
+      "mood": {
+        "valence": -0.3,
+        "arousal": 0.35,
+        "danceability": 0.3,
+        "warmth": 0.9
+      },
+      "themes": [
+        "compassion",
+        "sadness",
+        "nostalgia"
+      ],
+      "note": "The most personal song on his last album of new material.",
+      "feel": "Looking out for the ones nobody else looked out for.",
+      "colors": [
+        "#2ec5c0",
+        "#0a2a33"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20The%20Lost%20Children%20(Audio).mp3",
+        "name": "Michael Jackson - The Lost Children (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-091",
+      "title": "Threatened",
+      "album": "Invincible",
+      "year": 2001,
+      "era": "Invincible",
+      "slug": "threatened",
+      "key": "Fm",
+      "bpm": 112,
+      "scale": "minor",
+      "groove": "funk-rock",
+      "mood": {
+        "valence": -0.55,
+        "arousal": 0.85,
+        "danceability": 0.82,
+        "warmth": 0.25
+      },
+      "themes": [
+        "fear",
+        "tension",
+        "paranoia"
+      ],
+      "note": "Rod Serling narrates, tying it back to Thriller.",
+      "feel": "Something circling that you cannot quite see yet.",
+      "colors": [
+        "#2ec5c0",
+        "#0a2a33"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Threatened%20(Audio).mp3",
+        "name": "Michael Jackson - Threatened (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-081",
+      "title": "Unbreakable",
+      "album": "Invincible",
+      "year": 2001,
+      "era": "Invincible",
+      "slug": "unbreakable",
+      "key": "Bm",
+      "bpm": 100,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": 0.5,
+        "arousal": 0.8,
+        "danceability": 0.9,
+        "warmth": 0.5
+      },
+      "themes": [
+        "resilience",
+        "confidence",
+        "defiance"
+      ],
+      "note": "Opens Invincible with a Biggie verse cleared after his death.",
+      "feel": "Scarred, and entirely unwilling to be finished off.",
+      "colors": [
+        "#2ec5c0",
+        "#0a2a33"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Unbreakable%20(Audio).mp3",
+        "name": "Michael Jackson - Unbreakable (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-092",
+      "title": "Whatever Happens",
+      "album": "Invincible",
+      "year": 2001,
+      "era": "Invincible",
+      "slug": "whatever-happens",
+      "key": "Cm",
+      "bpm": 96,
+      "scale": "minor",
+      "groove": "ballad",
+      "mood": {
+        "valence": -0.4,
+        "arousal": 0.6,
+        "danceability": 0.6,
+        "warmth": 0.7
+      },
+      "themes": [
+        "tension",
+        "love",
+        "reflection"
+      ],
+      "note": "A Carlos Santana guitar line floats through the whole thing.",
+      "feel": "Holding on to something while bracing for the worst.",
+      "colors": [
+        "#2ec5c0",
+        "#0a2a33"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Whatever%20Happens%20(Audio).mp3",
+        "name": "Michael Jackson - Whatever Happens (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-095",
+      "title": "You Are My Life",
+      "album": "Invincible",
+      "year": 2001,
+      "era": "Invincible",
+      "slug": "you-are-my-life",
+      "key": "D",
+      "bpm": 74,
+      "scale": "major",
+      "groove": "ballad",
+      "mood": {
+        "valence": 0.88,
+        "arousal": 0.42,
+        "danceability": 0.5,
+        "warmth": 0.95
+      },
+      "themes": [
+        "love",
+        "devotion",
+        "comfort"
+      ],
+      "note": "Written for his children.",
+      "feel": "The plainest, most certain kind of love there is.",
+      "colors": [
+        "#2ec5c0",
+        "#0a2a33"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20You%20Are%20My%20Life%20(Audio).mp3",
+        "name": "Michael Jackson - You Are My Life (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-086",
+      "title": "You Rock My World",
+      "album": "Invincible",
+      "year": 2001,
+      "era": "Invincible",
+      "slug": "you-rock-my-world",
+      "key": "Em",
+      "bpm": 100,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": 0.8,
+        "arousal": 0.72,
+        "danceability": 0.92,
+        "warmth": 0.78
+      },
+      "themes": [
+        "love",
+        "desire",
+        "joy"
+      ],
+      "note": "A cinematic video with Marlon Brando in his final film appearance.",
+      "feel": "Walking into a room and having the night get better immediately.",
+      "colors": [
+        "#2ec5c0",
+        "#0a2a33"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20You%20Rock%20My%20World%20(Official%20Video).mp3",
+        "name": "Michael Jackson - You Rock My World (Official Video).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-111",
+      "title": "One More Chance",
+      "album": "Number Ones",
+      "year": 2003,
+      "era": "Invincible",
+      "slug": "one-more-chance",
+      "key": "A",
+      "bpm": 84,
+      "scale": "major",
+      "groove": "ballad",
+      "mood": {
+        "valence": -0.25,
+        "arousal": 0.5,
+        "danceability": 0.6,
+        "warmth": 0.85
+      },
+      "themes": [
+        "longing",
+        "heartbreak",
+        "love"
+      ],
+      "note": "The last original single released in his lifetime.",
+      "feel": "Asking one last time, and knowing the answer.",
+      "colors": [
+        "#d8d8e0",
+        "#141418"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20One%20More%20Chance%20(Official%20Video).mp3",
+        "name": "Michael Jackson - One More Chance (Official Video).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-113",
+      "title": "We've Had Enough",
+      "album": "The Ultimate Collection",
+      "year": 2004,
+      "era": "Invincible",
+      "slug": "weve-had-enough",
+      "key": "Cm",
+      "bpm": 92,
+      "scale": "minor",
+      "groove": "funk-rock",
+      "mood": {
+        "valence": -0.72,
+        "arousal": 0.8,
+        "danceability": 0.75,
+        "warmth": 0.35
+      },
+      "themes": [
+        "anger",
+        "injustice",
+        "grief"
+      ],
+      "note": "A protest song about a killing that never made an album.",
+      "feel": "Grief that turned into a demand.",
+      "colors": [
+        "#9aa0ac",
+        "#14161c"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20We've%20Had%20Enough%20(Audio).mp3",
+        "name": "Michael Jackson - We've Had Enough (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-033",
+      "title": "Thriller (Steve Aoki Midnight Hour Remix)",
+      "album": "Thriller 25",
+      "year": 2008,
+      "era": "Invincible",
+      "slug": "thriller-steve-aoki-midnight-hour-remix",
+      "key": "C#m",
+      "bpm": 128,
+      "scale": "minor",
+      "groove": "disco",
+      "mood": {
+        "valence": 0.1,
+        "arousal": 0.95,
+        "danceability": 0.96,
+        "warmth": 0.4
+      },
+      "themes": [
+        "fear",
+        "celebration",
+        "celebration"
+      ],
+      "note": "The remix that put Thriller back on dancefloors 25 years later.",
+      "feel": "The same horror story, told at four in the morning.",
+      "colors": [
+        "#ff4d5a",
+        "#2a0508"
+      ],
+      "aliases": [
+        "thriller steve aoki midnight hour remix",
+        "thriller steve aoki remix"
+      ],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Thriller%20(Steve%20Aoki%20Midnight%20Hour%20Remix)%20(Audio).mp3",
+        "name": "Michael Jackson - Thriller (Steve Aoki Midnight Hour Remix) (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-112",
+      "title": "This Is It",
+      "album": "This Is It",
+      "year": 2009,
+      "era": "Invincible",
+      "slug": "this-is-it",
+      "key": "C",
+      "bpm": 86,
+      "scale": "major",
+      "groove": "epoch",
+      "mood": {
+        "valence": 0.62,
+        "arousal": 0.58,
+        "danceability": 0.6,
+        "warmth": 0.85
+      },
+      "themes": [
+        "hope",
+        "resilience",
+        "reflection"
+      ],
+      "note": "Heard for the first time in the film that followed his death.",
+      "feel": "An almost-there promise, which is what makes it ache.",
+      "colors": [
+        "#e8b64a",
+        "#2a1c06"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20This%20Is%20It%20(Official%20Video).mp3",
+        "name": "Michael Jackson - This Is It (Official Video).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-099",
+      "title": "(I Like) The Way You Love Me",
+      "album": "Michael",
+      "year": 2010,
+      "era": "Invincible",
+      "slug": "i-like-the-way-you-love-me",
+      "key": "C",
+      "bpm": 112,
+      "scale": "major",
+      "groove": "ballad-motown",
+      "mood": {
+        "valence": 0.85,
+        "arousal": 0.65,
+        "danceability": 0.82,
+        "warmth": 0.9
+      },
+      "themes": [
+        "love",
+        "joy",
+        "devotion"
+      ],
+      "note": "Grew out of a voice memo he recorded at home.",
+      "feel": "The uncomplicated pleasure of being loved well.",
+      "colors": [
+        "#7f8fd4",
+        "#12162e"
+      ],
+      "aliases": [
+        "the way you love me",
+        "i like the way you love me"
+      ],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20(I%20Like)%20The%20Way%20You%20Love%20Me%20(Audio).mp3",
+        "name": "Michael Jackson - (I Like) The Way You Love Me (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-100",
+      "title": "Behind the Mask",
+      "album": "Michael",
+      "year": 2010,
+      "era": "Invincible",
+      "slug": "behind-the-mask",
+      "key": "Em",
+      "bpm": 120,
+      "scale": "minor",
+      "groove": "disco",
+      "mood": {
+        "valence": 0.8,
+        "arousal": 0.85,
+        "danceability": 0.93,
+        "warmth": 0.75
+      },
+      "themes": [
+        "joy",
+        "celebration",
+        "unity"
+      ],
+      "note": "A Yellow Magic Orchestra song he demoed in 1982, finished decades later.",
+      "feel": "A crowd with its hands up and no reason to stop.",
+      "colors": [
+        "#7f8fd4",
+        "#12162e"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Behind%20the%20Mask%20(Official%20Video).mp3",
+        "name": "Michael Jackson - Behind the Mask (Official Video).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-097",
+      "title": "Hold My Hand",
+      "album": "Michael",
+      "year": 2010,
+      "era": "Invincible",
+      "slug": "hold-my-hand",
+      "key": "C",
+      "bpm": 88,
+      "scale": "major",
+      "groove": "epoch",
+      "mood": {
+        "valence": 0.78,
+        "arousal": 0.6,
+        "danceability": 0.72,
+        "warmth": 0.88
+      },
+      "themes": [
+        "hope",
+        "unity",
+        "comfort"
+      ],
+      "note": "A duet with Akon, finished after his death.",
+      "feel": "Two people deciding to get through it together.",
+      "colors": [
+        "#7f8fd4",
+        "#12162e"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Hold%20My%20Hand%20(Duet%20with%20Akon)%20(Official%20Video)%20ft.%20Akon.mp3",
+        "name": "Michael Jackson - Hold My Hand (Duet with Akon) (Official Video) ft. Akon.mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-098",
+      "title": "Hollywood Tonight",
+      "album": "Michael",
+      "year": 2010,
+      "era": "Invincible",
+      "slug": "hollywood-tonight",
+      "key": "Am",
+      "bpm": 116,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": -0.2,
+        "arousal": 0.75,
+        "danceability": 0.88,
+        "warmth": 0.45
+      },
+      "themes": [
+        "escapism",
+        "alienation",
+        "longing"
+      ],
+      "note": "A song about a girl chasing a dream that is already eating her.",
+      "feel": "Chasing a city that has not decided to want you back.",
+      "colors": [
+        "#7f8fd4",
+        "#12162e"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Hollywood%20Tonight%20(Official%20Video).mp3",
+        "name": "Michael Jackson - Hollywood Tonight (Official Video).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-101",
+      "title": "The Toy",
+      "album": "Michael",
+      "year": 2010,
+      "era": "Invincible",
+      "slug": "the-toy",
+      "key": "C",
+      "bpm": 84,
+      "scale": "major",
+      "groove": "ballad",
+      "mood": {
+        "valence": 0.25,
+        "arousal": 0.4,
+        "danceability": 0.5,
+        "warmth": 0.85
+      },
+      "themes": [
+        "nostalgia",
+        "vulnerability",
+        "hope"
+      ],
+      "note": "The original demo that became Best of Joy.",
+      "feel": "The child inside the song still holding the toy.",
+      "colors": [
+        "#7f8fd4",
+        "#12162e"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20The%20Toy%20(Demo%20-%20Official%20Audio).mp3",
+        "name": "Michael Jackson - The Toy (Demo - Official Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-115",
+      "title": "What a Lovely Way to Go",
+      "album": "Michael",
+      "year": 2010,
+      "era": "Invincible",
+      "slug": "what-a-lovely-way-to-go",
+      "key": "Am",
+      "bpm": 92,
+      "scale": "minor",
+      "groove": "ballad",
+      "mood": {
+        "valence": -0.3,
+        "arousal": 0.5,
+        "danceability": 0.55,
+        "warmth": 0.6
+      },
+      "themes": [
+        "melancholy",
+        "weariness",
+        "reflection"
+      ],
+      "note": "A keyboard demo that surfaced posthumously.",
+      "feel": "A wry shrug at the end of something long.",
+      "colors": [
+        "#7f8fd4",
+        "#12162e"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20What%20A%20Lovely%20Way%20To%20Go%20(Demo%20-%20Official%20Audio).mp3",
+        "name": "Michael Jackson - What A Lovely Way To Go (Demo - Official Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-116",
+      "title": "Who Do You Know",
+      "album": "Michael",
+      "year": 2010,
+      "era": "Invincible",
+      "slug": "who-do-you-know",
+      "key": "C",
+      "bpm": 90,
+      "scale": "major",
+      "groove": "ballad",
+      "mood": {
+        "valence": -0.2,
+        "arousal": 0.45,
+        "danceability": 0.55,
+        "warmth": 0.7
+      },
+      "themes": [
+        "reflection",
+        "longing",
+        "melancholy"
+      ],
+      "note": "An unfinished demo from the Invincible era.",
+      "feel": "Trying to place a face you should probably remember.",
+      "colors": [
+        "#7f8fd4",
+        "#12162e"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Who%20Do%20You%20Know%20(Demo%20-%20Official%20Audio).mp3",
+        "name": "Michael Jackson - Who Do You Know (Demo - Official Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-114",
+      "title": "Immortal Megamix",
+      "album": "Immortal",
+      "year": 2011,
+      "era": "Invincible",
+      "slug": "immortal-megamix",
+      "key": "Am",
+      "bpm": 126,
+      "scale": "minor",
+      "groove": "disco",
+      "mood": {
+        "valence": 0.8,
+        "arousal": 0.92,
+        "danceability": 0.95,
+        "warmth": 0.6
+      },
+      "themes": [
+        "celebration",
+        "joy",
+        "energy"
+      ],
+      "note": "The Cirque du Soleil show condensed into six minutes.",
+      "feel": "Every hit at once, with the tempo pushed up.",
+      "colors": [
+        "#d2452f",
+        "#2a0c06"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Immortal%20Megamix%20(Audio).mp3",
+        "name": "Michael Jackson - Immortal Megamix (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-106",
+      "title": "A Place With No Name",
+      "album": "Xscape",
+      "year": 2014,
+      "era": "Invincible",
+      "slug": "a-place-with-no-name",
+      "key": "Am",
+      "bpm": 112,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": 0.55,
+        "arousal": 0.7,
+        "danceability": 0.88,
+        "warmth": 0.65
+      },
+      "themes": [
+        "escapism",
+        "desire",
+        "hope"
+      ],
+      "note": "A reworking of America’s A Horse with No Name.",
+      "feel": "An open road that asks no questions.",
+      "colors": [
+        "#c9a227",
+        "#241b04"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20A%20Place%20With%20No%20Name%20(Official%20Video).mp3",
+        "name": "Michael Jackson - A Place With No Name (Official Video).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-107",
+      "title": "Blue Gangsta",
+      "album": "Xscape",
+      "year": 2014,
+      "era": "Invincible",
+      "slug": "blue-gangsta",
+      "key": "Cm",
+      "bpm": 116,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": -0.6,
+        "arousal": 0.8,
+        "danceability": 0.85,
+        "warmth": 0.25
+      },
+      "themes": [
+        "anger",
+        "betrayal",
+        "defiance"
+      ],
+      "note": "An Invincible-era demo about a man pushed past his limit.",
+      "feel": "The moment patience runs out and something else takes over.",
+      "colors": [
+        "#c9a227",
+        "#241b04"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Blue%20Gangsta%20(Audio).mp3",
+        "name": "Michael Jackson - Blue Gangsta (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-105",
+      "title": "Chicago",
+      "album": "Xscape",
+      "year": 2014,
+      "era": "Invincible",
+      "slug": "chicago",
+      "key": "Bm",
+      "bpm": 108,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": -0.55,
+        "arousal": 0.72,
+        "danceability": 0.82,
+        "warmth": 0.35
+      },
+      "themes": [
+        "heartbreak",
+        "betrayal",
+        "tension"
+      ],
+      "note": "A She Was Lovin’ Me demo rebuilt with a colder edge.",
+      "feel": "Finding out the whole thing was never what you thought.",
+      "colors": [
+        "#c9a227",
+        "#241b04"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Chicago%20(Official%20Audio).mp3",
+        "name": "Michael Jackson - Chicago (Official Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-109",
+      "title": "Do You Know Where Your Children Are",
+      "album": "Xscape",
+      "year": 2014,
+      "era": "Invincible",
+      "slug": "do-you-know-where-your-children-are",
+      "key": "Am",
+      "bpm": 112,
+      "scale": "minor",
+      "groove": "funk-rock",
+      "mood": {
+        "valence": -0.65,
+        "arousal": 0.72,
+        "danceability": 0.78,
+        "warmth": 0.55
+      },
+      "themes": [
+        "compassion",
+        "grief",
+        "urgency"
+      ],
+      "note": "A song about children with nowhere safe to go.",
+      "feel": "Fear for someone small who cannot protect themselves.",
+      "colors": [
+        "#c9a227",
+        "#241b04"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Do%20You%20Know%20Where%20Your%20Children%20Are%20(Official%20Audio).mp3",
+        "name": "Michael Jackson - Do You Know Where Your Children Are (Official Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-103",
+      "title": "Love Never Felt So Good",
+      "album": "Xscape",
+      "year": 2014,
+      "era": "Invincible",
+      "slug": "love-never-felt-so-good",
+      "key": "C",
+      "bpm": 118,
+      "scale": "major",
+      "groove": "disco",
+      "mood": {
+        "valence": 0.85,
+        "arousal": 0.72,
+        "danceability": 0.9,
+        "warmth": 0.85
+      },
+      "themes": [
+        "love",
+        "joy",
+        "nostalgia"
+      ],
+      "note": "A 1983 demo with Paul Anka, finished for Xscape.",
+      "feel": "Being delighted by a feeling you had written off.",
+      "colors": [
+        "#c9a227",
+        "#241b04"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Love%20Never%20Felt%20So%20Good%20(Official%20Video).mp3",
+        "name": "Michael Jackson - Love Never Felt So Good (Official Video).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-104",
+      "title": "Love Never Felt So Good (with Justin Timberlake)",
+      "album": "Xscape",
+      "year": 2014,
+      "era": "Invincible",
+      "slug": "love-never-felt-so-good-with-justin-timberlake",
+      "key": "C",
+      "bpm": 118,
+      "scale": "major",
+      "groove": "disco",
+      "mood": {
+        "valence": 0.88,
+        "arousal": 0.76,
+        "danceability": 0.92,
+        "warmth": 0.85
+      },
+      "themes": [
+        "love",
+        "joy",
+        "celebration"
+      ],
+      "note": "The duet version that put a posthumous single in the top ten.",
+      "feel": "The same delight, shared out loud with someone else.",
+      "colors": [
+        "#c9a227",
+        "#241b04"
+      ],
+      "aliases": [
+        "love never felt so good with justin timberlake",
+        "classic mj x love never felt so good",
+        "love never felt so good justin timberlake"
+      ],
+      "feat": "Justin Timberlake",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%2C%20Justin%20Timberlake%20-%20Love%20Never%20Felt%20So%20Good%20(Audio).mp3",
+        "name": "Michael Jackson, Justin Timberlake - Love Never Felt So Good (Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-102",
+      "title": "Loving You",
+      "album": "Xscape",
+      "year": 2014,
+      "era": "Invincible",
+      "slug": "loving-you",
+      "key": "C",
+      "bpm": 92,
+      "scale": "major",
+      "groove": "ballad",
+      "mood": {
+        "valence": 0.78,
+        "arousal": 0.55,
+        "danceability": 0.72,
+        "warmth": 0.9
+      },
+      "themes": [
+        "love",
+        "tenderness",
+        "longing"
+      ],
+      "note": "A Bad-era demo finished by Timbaland for Xscape.",
+      "feel": "A simple, happy love that keeps its own time.",
+      "colors": [
+        "#c9a227",
+        "#241b04"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 74,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Loving%20You%20(Official%20Audio).mp3",
+        "name": "Michael Jackson - Loving You (Official Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-110",
+      "title": "Slave to the Rhythm",
+      "album": "Xscape",
+      "year": 2014,
+      "era": "Invincible",
+      "slug": "slave-to-the-rhythm",
+      "key": "Em",
+      "bpm": 122,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": -0.35,
+        "arousal": 0.86,
+        "danceability": 0.9,
+        "warmth": 0.35
+      },
+      "themes": [
+        "tension",
+        "defiance",
+        "urgency"
+      ],
+      "note": "A Dangerous-era demo that finally surfaced.",
+      "feel": "Locked into a beat you did not choose.",
+      "colors": [
+        "#c9a227",
+        "#241b04"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Slave%20to%20the%20Rhythm%20(Official%20Audio).mp3",
+        "name": "Michael Jackson - Slave to the Rhythm (Official Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-108",
+      "title": "Xscape",
+      "album": "Xscape",
+      "year": 2014,
+      "era": "Invincible",
+      "slug": "xscape",
+      "key": "Bm",
+      "bpm": 108,
+      "scale": "minor",
+      "groove": "funk",
+      "mood": {
+        "valence": -0.25,
+        "arousal": 0.85,
+        "danceability": 0.88,
+        "warmth": 0.35
+      },
+      "themes": [
+        "escapism",
+        "tension",
+        "urgency"
+      ],
+      "note": "The title track, unfinished for over a decade.",
+      "feel": "Running from something, on purpose, at speed.",
+      "colors": [
+        "#c9a227",
+        "#241b04"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Xscape%20(Official%20Audio).mp3",
+        "name": "Michael Jackson - Xscape (Official Audio).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-076",
+      "title": "Blood on the Dance Floor 2017",
+      "album": "Blood on the Dance Floor 2017",
+      "year": 2017,
+      "era": "Invincible",
+      "slug": "blood-on-the-dance-floor-2017",
+      "key": "Fm",
+      "bpm": 124,
+      "scale": "minor",
+      "groove": "disco",
+      "mood": {
+        "valence": -0.2,
+        "arousal": 0.92,
+        "danceability": 0.94,
+        "warmth": 0.35
+      },
+      "themes": [
+        "tension",
+        "renewal",
+        "obsession"
+      ],
+      "note": "A 2017 rework built for contemporary dancefloors.",
+      "feel": "The same danger, twenty years newer.",
+      "colors": [
+        "#b02330",
+        "#1c0406"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Blood%20On%20The%20Dance%20Floor%202017%20(Official%20Video).mp3",
+        "name": "Michael Jackson - Blood On The Dance Floor 2017 (Official Video).mp3",
+        "lrc": null
+      }
+    },
+    {
+      "id": "mj-077",
+      "title": "Blood on the Dance Floor x Dangerous",
+      "album": "Blood on the Dance Floor x Dangerous",
+      "year": 2017,
+      "era": "Invincible",
+      "slug": "blood-on-the-dance-floor-x-dangerous",
+      "key": "Fm",
+      "bpm": 126,
+      "scale": "minor",
+      "groove": "disco",
+      "mood": {
+        "valence": -0.25,
+        "arousal": 0.93,
+        "danceability": 0.94,
+        "warmth": 0.3
+      },
+      "themes": [
+        "tension",
+        "intrigue",
+        "obsession"
+      ],
+      "note": "A mash-up of Blood on the Dance Floor with Dangerous.",
+      "feel": "Two bad ideas colliding on purpose.",
+      "colors": [
+        "#c22b39",
+        "#200507"
+      ],
+      "aliases": [],
+      "feat": "",
+      "duration": 66,
+      "files": {
+        "audio": "mp3/Michael%20Jackson%20-%20Blood%20On%20The%20Dance%20Floor%20X%20Dangerous%20(The%20White%20Panda%20Mash-Up).mp3",
+        "name": "Michael Jackson - Blood On The Dance Floor X Dangerous (The White Panda Mash-Up).mp3",
+        "lrc": null
+      }
+    }
+  ],
+  "intro": "audio/hee%20hee.mp3",
+  "unmatched": [],
+  "variants": [
+    {
+      "title": "Wanna Be Startin' Somethin'",
+      "file": "Michael Jackson - Wanna Be Startin' Somethin' (Official Lyric Video).mp3",
+      "chosen": "Michael Jackson - Wanna Be Startin' Somethin' (Audio).mp3"
+    },
+    {
+      "title": "Baby Be Mine",
+      "file": "Michael Jackson - Baby Be Mine (Official Audio).mp3",
+      "chosen": "Michael Jackson - Baby Be Mine (Audio).mp3"
+    },
+    {
+      "title": "The Girl Is Mine",
+      "file": "Michael Jackson - The Girl Is Mine (Audio) ft. Paul McCartney.mp3",
+      "chosen": "Michael Jackson - The Girl Is Mine (Official Audio).mp3"
+    },
+    {
+      "title": "Thriller",
+      "file": "Michael Jackson - Thriller (Official Video - Shortened Version).mp3",
+      "chosen": "Michael Jackson - Thriller (Official 4K Video).mp3"
+    },
+    {
+      "title": "Human Nature",
+      "file": "Michael Jackson - Human Nature (Official Video).mp3",
+      "chosen": "Michael Jackson - Human Nature (Official Audio).mp3"
+    },
+    {
+      "title": "The Lady in My Life",
+      "file": "Michael Jackson - The Lady in My Life (Official Audio).mp3",
+      "chosen": "Michael Jackson - The Lady in My Life (Audio).mp3"
+    },
+    {
+      "title": "Bad",
+      "file": "Michael Jackson - Bad (Shortened Version).mp3",
+      "chosen": "Michael Jackson - Bad (Official Video).mp3"
+    },
+    {
+      "title": "Smooth Criminal",
+      "file": "Michael Jackson - Smooth Criminal (Official Video - Shortened Version).mp3",
+      "chosen": "Michael Jackson - Smooth Criminal (Official Video).mp3"
+    },
+    {
+      "title": "Black or White",
+      "file": "Michael Jackson - Black Or White (Official Video - Shortened Version).mp3",
+      "chosen": "Michael Jackson - Black or White (Official Video - Upscaled).mp3"
+    },
+    {
+      "title": "They Don't Care About Us",
+      "file": "Michael Jackson - They Don't Care About Us (Prison Version) (Official Video).mp3",
+      "chosen": "Michael Jackson - They Don't Care About Us.mp3"
+    },
+    {
+      "title": "You Rock My World",
+      "file": "Michael Jackson - You Rock My World (Official Video - Shortened Version).mp3",
+      "chosen": "Michael Jackson - You Rock My World (Official Video).mp3"
+    },
+    {
+      "title": "Behind the Mask",
+      "file": "Michael Jackson - Behind The Mask (Mike's Mix (Demo) - Official Audio).mp3",
+      "chosen": "Michael Jackson - Behind the Mask (Official Video).mp3"
+    },
+    {
+      "title": "Love Never Felt So Good (with Justin Timberlake)",
+      "file": "Michael Jackson - Classic MJ x Love Never Felt So Good (Official Video).mp3",
+      "chosen": "Michael Jackson, Justin Timberlake - Love Never Felt So Good (Audio).mp3"
+    },
+    {
+      "title": "Love Never Felt So Good (with Justin Timberlake)",
+      "file": "Michael Jackson, Justin Timberlake - Love Never Felt So Good (Official Video).mp3",
+      "chosen": "Michael Jackson, Justin Timberlake - Love Never Felt So Good (Audio).mp3"
+    },
+    {
+      "title": "Slave to the Rhythm",
+      "file": "Michael Jackson - Slave To The Rhythm.mp3",
+      "chosen": "Michael Jackson - Slave to the Rhythm (Official Audio).mp3"
+    }
+  ],
+  "totalFiles": 121,
+  "lyricFiles": 0,
+  "catalogSize": 105,
+  "knownTracks": 116,
+  "generatedAt": "2026-09-17T15:57:11.361Z"
+}

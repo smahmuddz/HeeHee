@@ -1,0 +1,20 @@
+{
+  "name": "heehee",
+  "version": "1.0.0",
+  "private": true,
+  "description": "HeeHee - an MJ-themed mood chatbot that reads how you feel and plays the Michael Jackson song that fits.",
+  "type": "module",
+  "scripts": {
+    "start": "node tools/serve.mjs",
+    "dev": "node tools/serve.mjs",
+    "audio": "node tools/library.mjs",
+    "selfcheck": "node tools/selfcheck.mjs",
+    "verify": "node tools/verify-ui.mjs",
+    "verify:fallback": "node tools/verify-fallback.mjs",
+    "audit": "node tools/audit-layout.mjs",
+    "test": "node tools/selfcheck.mjs"
+  },
+  "dependencies": {
+    "playwright-core": "^1.63.0"
+  }
+}
