@@ -201,57 +201,60 @@
       </button>
     </header>
 
-    <fieldset class="settings__group">
-      <legend>Records</legend>
-      <p class="settings__help">
-        Drop real audio into the <code>audio/</code> folder named after the song slug,
-        for example <code>audio/beat-it.mp3</code>. Anything missing is played as a
-        generated arrangement in the song&rsquo;s own key, tempo and groove.
-        An optional <code>audio/beat-it.lrc</code> replaces the generated captions.
-      </p>
-    </fieldset>
+    <div class="settings__body">
+      <section class="settings__group">
+        <h3>Records</h3>
+        <p class="settings__help">
+          HeeHee plays the files in <code>mp3/</code> and <code>audio/</code>, and only ever
+          suggests songs it can actually play. Drop a new file in, reload, and it is picked
+          up automatically. An <code>.lrc</code> with the same name replaces the generated
+          captions with real timed lyrics.
+        </p>
+      </section>
 
-    <fieldset class="settings__group">
-      <legend>Mood analysis</legend>
-      <label class="switch">
-        <input type="checkbox" id="llmEnabled">
-        <span class="switch__track" aria-hidden="true"><span class="switch__thumb"></span></span>
-        <span class="switch__label">Use an LLM as a second opinion</span>
-      </label>
-      <p class="settings__help">
-        The local analyzer always runs. With this on, the two readings are blended,
-        which helps with sarcasm and unusual phrasing. Nothing is sent unless you
-        enable it and add a key.
-      </p>
-      <label class="field">
-        <span>Endpoint</span>
-        <input type="url" id="llmEndpoint" placeholder="https://api.openai.com/v1/chat/completions" spellcheck="false">
-      </label>
-      <label class="field">
-        <span>Model</span>
-        <input type="text" id="llmModel" placeholder="gpt-4o-mini" spellcheck="false">
-      </label>
-      <label class="field">
-        <span>API key</span>
-        <input type="password" id="llmKey" placeholder="sk-..." spellcheck="false" autocomplete="off">
-      </label>
-      <label class="field">
-        <span>LLM weight <output id="llmWeightOut">0.70</output></span>
-        <input type="range" id="llmWeight" min="0.1" max="0.95" step="0.05" value="0.7">
-      </label>
-      <p class="settings__status" id="llmStatus" aria-live="polite"></p>
-    </fieldset>
+      <section class="settings__group">
+        <h3>Mood analysis</h3>
+        <label class="switch">
+          <input type="checkbox" id="llmEnabled">
+          <span class="switch__track" aria-hidden="true"><span class="switch__thumb"></span></span>
+          <span class="switch__label">Use an LLM as a second opinion</span>
+        </label>
+        <p class="settings__help">
+          The local analyzer always runs. With this on, the two readings are blended,
+          which helps with sarcasm and unusual phrasing. Nothing is sent unless you
+          enable it and add a key.
+        </p>
+        <label class="field">
+          <span>Endpoint</span>
+          <input type="url" id="llmEndpoint" placeholder="https://api.openai.com/v1/chat/completions" spellcheck="false">
+        </label>
+        <label class="field">
+          <span>Model</span>
+          <input type="text" id="llmModel" placeholder="gpt-4o-mini" spellcheck="false">
+        </label>
+        <label class="field">
+          <span>API key</span>
+          <input type="password" id="llmKey" placeholder="sk-..." spellcheck="false" autocomplete="off">
+        </label>
+        <label class="field">
+          <span>LLM weight <output id="llmWeightOut">0.70</output></span>
+          <input type="range" id="llmWeight" min="0.1" max="0.95" step="0.05" value="0.7">
+        </label>
+        <p class="settings__status" id="llmStatus" aria-live="polite"></p>
+      </section>
 
-    <fieldset class="settings__group">
-      <legend>Playback</legend>
-      <label class="field">
-        <span>Volume <output id="volOut">90%</output></span>
-        <input type="range" id="vol" min="0" max="1" step="0.05" value="0.9">
-      </label>
-      <button class="btn btn--ghost" value="cancel" formnovalidate id="replayIntro" type="button">Replay the opening</button>
-    </fieldset>
+      <section class="settings__group">
+        <h3>Playback</h3>
+        <label class="field">
+          <span>Volume <output id="volOut">90%</output></span>
+          <input type="range" id="vol" min="0" max="1" step="0.05" value="0.9">
+        </label>
+        <button class="btn btn--ghost" id="replayIntro" type="button">Replay the opening</button>
+      </section>
+    </div>
 
     <footer class="settings__foot">
+      <button class="btn btn--ghost" value="cancel" id="cancelSettings">Cancel</button>
       <button class="btn btn--primary" value="save" id="saveSettings" type="button">Save</button>
     </footer>
   </form>
